@@ -1,7 +1,3 @@
-# Atividade avaliativa - Lógica - Algorítimos e Programação de computadores 
-# Aluno: Caio Rodrigues Lino Mesquita
-# Matrícula: 2272190016
-
 AgendaTelefonica = [] #Declaração do arranjo Agenda Telefonica (para armazenar os contatos)
 
 
